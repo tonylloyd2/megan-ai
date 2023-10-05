@@ -1,4 +1,4 @@
-# mjai
+# Robo-AI
 **MJ-AI Assistant **
 
 1. **Introduction**
