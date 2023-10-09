@@ -41,8 +41,8 @@ listeningToTask = False
 
 def main():
     # global tasks
-    global listeningToTask
-    respond("Hello, lloyd. I hope you're having a nice day today.")
+    # global listeningToTask
+    # respond("Hello, lloyd. I hope you're having a nice day today.")
     while True:
         command = listen_for_command()
 
